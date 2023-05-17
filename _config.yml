@@ -27,7 +27,7 @@ destination: _site/docs
 
 # Build settings
 # theme: minima
-theme: just-the-docs
+remote_theme: just-the-docs
 #plugins:
 #  - jekyll-feed
 #  - jekyll-postcss
